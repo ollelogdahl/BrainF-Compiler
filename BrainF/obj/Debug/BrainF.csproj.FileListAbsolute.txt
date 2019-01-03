@@ -1,0 +1,7 @@
+D:\Programmering\C#\BrainF\BrainF\bin\Debug\BrainF.exe.config
+D:\Programmering\C#\BrainF\BrainF\bin\Debug\BrainF.exe
+D:\Programmering\C#\BrainF\BrainF\bin\Debug\BrainF.pdb
+D:\Programmering\C#\BrainF\BrainF\obj\Debug\BrainF.csprojAssemblyReference.cache
+D:\Programmering\C#\BrainF\BrainF\obj\Debug\BrainF.csproj.CoreCompileInputs.cache
+D:\Programmering\C#\BrainF\BrainF\obj\Debug\BrainF.exe
+D:\Programmering\C#\BrainF\BrainF\obj\Debug\BrainF.pdb
