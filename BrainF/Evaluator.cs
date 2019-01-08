@@ -8,7 +8,7 @@ namespace BrainF {
 		private readonly Func<byte> input;
 		private readonly Action<byte> output;
 
-		private readonly IDictionary<Type, Action> instructionSet = new Dictionary<Type, Action>();
+		private readonly Dictionary<Type, Action> instructionSet = new Dictionary<Type, Action>();
 		private readonly byte[] memory = new byte[32768];
 
 		private int dataPointer = 0;
